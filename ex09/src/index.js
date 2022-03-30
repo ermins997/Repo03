@@ -1,0 +1,14 @@
+function main(numOne,numTwo){
+    // Only change code bellow this line
+    var difference;
+    var numOne;
+    var numTwo;
+    difference = numOne - numTwo;
+    // Only change code bellow this line
+    return difference;
+   }
+   console.log(main(15,8));
+   console.log(main(25,8));
+   console.log(main(425,120));
+
+   module.exports = main;
